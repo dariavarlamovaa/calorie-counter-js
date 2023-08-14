@@ -44,7 +44,7 @@
   --color-text-black: #000000;
   --color-text-white: #ffffff;
   --color-background-main: #ffffff;
-  --color-accent: #fd7d36;
+  --color-accent: #9ACD32;
   --color-accent-hover: #ff9e68;
   --color-accent-active: #ff7528;
   --color-warning: #fd3636;
@@ -516,7 +516,7 @@ input[type="number"] {
 }
 
 .radio__wrapper input[type="radio"]:checked + label::before {
-  background-image: url("../img/icon-radio-checked.svg");
+  background-image: url("../img/radio-checked-custom.svg");
 }
 
 .radio__wrapper label:hover,
