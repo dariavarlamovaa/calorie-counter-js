@@ -86,7 +86,7 @@ body {
   -webkit-box-flex: 1;
   -ms-flex: 1 0 auto;
 
-  background-image: url("../img/background-main.jpg");
+  background-image: url("../img/background-main-img.jpg");
   background-position: 0 0;
   background-repeat: no-repeat;
   background-size: cover;
@@ -212,7 +212,7 @@ input[type="number"] {
   margin: 0;
   margin-bottom: 22px;
 
-  color: var(--color-text-white);
+  color: var(--color-text-black);
   text-align: center;
 }
 
