@@ -516,7 +516,7 @@ input[type="number"] {
 }
 
 .radio__wrapper input[type="radio"]:checked + label::before {
-  background-image: url("../img/radio-checked-custom.svg");
+  background-image: url("../img/icon-radio-checked.svg");
 }
 
 .radio__wrapper label:hover,
